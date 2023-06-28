@@ -6,7 +6,7 @@ This repository contains a project timer and stopwatch implemented using HTML, C
 - Stopwatch: Start, pause, and reset the stopwatch to measure elapsed time accurately.
 - User-friendly interface: The timer and stopwatch have intuitive controls and a visually appealing design.
   
-#Getting Started
+# Getting Started
 To use the project timer and stopwatch, follow these steps:
  
 - Clone the repository or download the source code as a ZIP file.
