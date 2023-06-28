@@ -42,7 +42,7 @@ Contributions to this project are welcome. To contribute, follow these steps:
 - Please ensure your contributions adhere to the repository's coding conventions and style.
 
 # Acknowledgments
-This project was inspired by the need for a simple timer and stopwatch implementation. Special thanks to the contributors who have helped improve this project.
+This project was inspired by the need for a simple timer and stopwatch implementation. It was created as a learning exercise and can be used as a starting point for building more complex applications.
 
 # Contact
 If you have any questions or suggestions regarding this project, feel free to contact me at ankitjha1403@gmail.com .
