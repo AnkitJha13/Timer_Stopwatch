@@ -1,4 +1,4 @@
-# Project Timer and Stopwatch
+# Timer and Stopwatch
 This repository contains a project timer and stopwatch implemented using HTML, CSS, and JavaScript. The timer allows you to set a countdown for a specific duration, while the stopwatch helps you measure elapsed time. This README file provides an overview of the project and instructions on how to use it.
 
 # Features
