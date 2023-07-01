@@ -2,13 +2,13 @@
 This repository contains a project timer and stopwatch implemented using HTML, CSS, and JavaScript. The timer allows you to set a countdown for a specific duration, while the stopwatch helps you measure elapsed time. This README file provides an overview of the project and instructions on how to use it.
 
 
-# Features
+## Features
 - Timer: Set a countdown for a specific duration, and receive a notification when the time is up.
 - Stopwatch: Start, pause, and reset the stopwatch to measure elapsed time accurately.
 - User-friendly interface: The timer and stopwatch have intuitive controls and a visually appealing design.
   
   
-# Getting Started
+## Getting Started
 To use the project timer and stopwatch, follow these steps:
  
 - Clone the repository or download the source code as a ZIP file.
@@ -34,7 +34,7 @@ To use the project timer and stopwatch, follow these steps:
 - Click the "Reset" button to reset the stopwatch to zero.
   
   
-# Contributing
+## Contributing
 Contributions to this project are welcome. To contribute, follow these steps:
 
 - Fork the repository.
@@ -44,8 +44,8 @@ Contributions to this project are welcome. To contribute, follow these steps:
 - Submit a pull request to the main branch of the original repository.
 - Please ensure your contributions adhere to the repository's coding conventions and style.
 
-# Acknowledgments
+## Acknowledgments
 This project was inspired by the need for a simple timer and stopwatch implementation. It was created as a learning exercise and can be used as a starting point for building more complex applications.
 
-# Contact
+## Contact
 If you have any questions or suggestions regarding this project, feel free to contact me at ankitjha1403@gmail.com .
