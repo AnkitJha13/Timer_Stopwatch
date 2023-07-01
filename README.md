@@ -9,7 +9,7 @@ This repository contains a project timer and stopwatch implemented using HTML, C
   
   
 # Getting Started
-To use the project timer and stopwatch, follow steps:
+To use the project timer and stopwatch, follow these steps:
  
 - Clone the repository or download the source code as a ZIP file.
 - Navigate to the project directory in your local system.
